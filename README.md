@@ -1,4 +1,4 @@
-# 🌱 the-dsa-journey
+# 🧩 Pieces of Logic: My DSA Evolution
 
 Welcome to my DSA learning repository — a growing collection of topic-wise solutions in **C++** and **Java**.
 
