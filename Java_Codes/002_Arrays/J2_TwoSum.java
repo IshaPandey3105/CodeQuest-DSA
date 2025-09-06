@@ -29,5 +29,7 @@ public class J2_TwoSum {
             j--;
         }
         System.out.println(Arrays.toString(arr));
+
+        sc.close();
     }
 }
