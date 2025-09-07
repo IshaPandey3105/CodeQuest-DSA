@@ -1,6 +1,6 @@
 import java.util.Arrays;
  // Merging of to sorted arrays 
-public class J5_Merging {
+public class J05_Merging {
     public static void main(String[] args) {
         int[] arr1={23,45,67,89};
         int[] arr2={25,45,77,79,100};

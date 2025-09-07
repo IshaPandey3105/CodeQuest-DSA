@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class J3_Rotating {
+public class J03_Rotating {
     public static void main(String[] args) {
         // Rotate an array (using other array)
         int[] arr={1,2,3,4,5,6};

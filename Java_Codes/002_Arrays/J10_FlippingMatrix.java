@@ -44,5 +44,6 @@ public class J10_FlippingMatrix {
         }
 
         System.out.println("Maximum score: " + score);
+        
     }
 }

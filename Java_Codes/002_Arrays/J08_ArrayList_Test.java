@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class J8_ArrayList_Test {
+public class J08_ArrayList_Test {
     public static void main(String[] args) {
         List<Integer> a = new ArrayList<>();
         a.add(10); a.add(20); a.add(30);

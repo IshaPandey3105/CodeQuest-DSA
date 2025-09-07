@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class J2_TwoSum {
+public class J02_TwoSum {
     public static void main(String[] args) {
 
         int[] arr = {1,2,3,4,5,6};

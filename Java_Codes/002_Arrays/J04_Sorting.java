@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class J4_Sorting {
+public class J04_Sorting {
     public static void main(String[] args) {
 
 // sorting 0's and 1's

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class J1_Basic {
+public class J01_Basic {
     public static void main(String[] args) {
         int[] arr= new int[5];
         // int[] arr1= {1,2,3,4,5};
