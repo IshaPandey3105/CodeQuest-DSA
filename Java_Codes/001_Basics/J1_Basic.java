@@ -80,7 +80,8 @@ public class J1_Basic{
         if(z%3==0 && z%5==0) System.out.println("Divisible by both 5 and 3!");
 
         // Ternary operator
-        System.out.println(((4%2==0) ? "even":"odd"));
+        int num1 = 4;
+        System.out.println(num1 % 2 == 0 ? "even" : "odd");
 
         // Switch case
         System.out.println("Enter a exp: ");
@@ -117,5 +118,6 @@ public class J1_Basic{
         else{
             System.out.println(year+" is not a leap year");
         }
+        sc.close();
     }
 } 

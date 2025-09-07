@@ -1,3 +1,12 @@
+/*
+ * Java is a high-level, object-oriented language developed by Sun Microsystems (now Oracle).
+ * Execution flow: Source code (.java) → Compiler (javac) → Bytecode (.class) → JVM (Interpreter/Just-In-Time compiler) → Output.
+ * The compiler checks syntax/compile-time errors and converts code into bytecode.
+ * The JVM interprets bytecode line by line and also uses JIT (Just-In-Time) compilation for efficiency.
+ * A package in Java is a way to organize classes/interfaces (like folders); e.g., java.util, java.io, etc.
+ */
+
+
 public class J2_Basic_2 {
     public static void main(String[] args) {
         // finding the no. of digits and thier sum

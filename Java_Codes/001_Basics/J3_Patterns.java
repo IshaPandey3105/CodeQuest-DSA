@@ -75,5 +75,6 @@ public class J3_Patterns {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
