@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class J6_StockSpan {
+public class J06_StockSpan {
     public static void Print(int[] arr){
         for(int elem : arr){
             System.out.print(elem + " ");

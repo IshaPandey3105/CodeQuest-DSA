@@ -1,5 +1,5 @@
 import java.util.Stack;
-public class J5_NextGreatestElem {
+public class J05_NextGreatestElem {
 
     public static void Print(int[] arr){
         for(int elem : arr){

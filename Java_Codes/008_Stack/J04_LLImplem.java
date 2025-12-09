@@ -58,7 +58,7 @@ class Stack{
         System.out.print(head.val +" ");
     }
 }
-public class J4_LLImplem {
+public class J04_LLImplem {
     public static void main(String[] args) {
         Stack st=new Stack();
         st.push(10);

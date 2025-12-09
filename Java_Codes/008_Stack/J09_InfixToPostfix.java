@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class J9_InfixToPostfix {
+public class J09_InfixToPostfix {
     public static void main(String[] args) {
         String str = "8-(5+3)*4/6";
         System.out.println("Expression: " + str);

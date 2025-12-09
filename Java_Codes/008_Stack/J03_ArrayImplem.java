@@ -50,7 +50,7 @@
         }
     }
 }
-public class J3_ArrayImplem {
+public class J03_ArrayImplem {
     public static void main(String[] args) {
         stack st=new stack();
         st.push(1);

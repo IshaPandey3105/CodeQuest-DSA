@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class J2_Recursive {
+public class J02_Recursive {
     public static void recursive(Stack<Integer> st){
         // System.out.println(" Original order : "+st);
         if(st.empty()) return;
