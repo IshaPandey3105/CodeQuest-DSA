@@ -1,6 +1,8 @@
 import java.util.*;
 import java.util.Stack;
 
+// Interleaving first half with second half
+
 public class J08_Reorder {
     public static void main(String[] args) {
         // reordering of array

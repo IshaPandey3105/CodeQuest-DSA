@@ -2,6 +2,7 @@ import java.util.*;
 
 public class J07_FirstNeg {
     // first negative in each window of size k
+    
     public static void main(String[] args) {
         int[] arr = {12,-1,-7,8,-15,30,6,28};
         int k=3;

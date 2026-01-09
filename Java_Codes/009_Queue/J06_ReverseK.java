@@ -2,6 +2,7 @@ import java.util.*;
 import java.util.Stack;
 
 // reversing first k elements from queues 
+
 public class J06_ReverseK {
     public static void main(String[] args) {
         Queue<Integer> que = new LinkedList<>();
