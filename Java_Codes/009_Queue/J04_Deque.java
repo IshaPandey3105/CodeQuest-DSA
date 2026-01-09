@@ -2,6 +2,9 @@
 //        (1)<-(2)<-(3)
 //        Front     Rear
 
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 public class J04_Deque {
     static class node{
         int data;
@@ -114,5 +117,19 @@ public class J04_Deque {
         System.out.println(q.removeFront());
         System.out.println(q.removeRear());
         System.out.println(q.isEmpty());
+
+
+// -------------Predefined in Java----------------
+        Deque<Integer> dq = new ArrayDeque<>();
+        dq.addFirst(100);
+        dq.addFirst(200);
+        dq.addFirst(500);
+        dq.addLast(900);
+        System.out.println(dq);   // [500, 200, 100, 900]
+        System.out.println(dq.removeFirst());
+        System.out.println(dq.removeLast());
+        System.out.println(dq.peekFirst());
+        System.out.println(dq.peekLast());
+        System.out.println(dq.isEmpty());
     }
 }
