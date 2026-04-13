@@ -14,7 +14,6 @@ class Nodee {
 public class J09_BST_to_MaxHeap {
 
     static int index = 0;
-
     public static void main(String[] args) {
 
         // Create BST
@@ -47,7 +46,6 @@ public class J09_BST_to_MaxHeap {
         }
 
     }
-
 
     // Function to check if a binary tree is a max heap
     public static boolean isMaxHeap(Nodee root) {
